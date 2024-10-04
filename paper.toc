@@ -1,0 +1,62 @@
+\contentsline {section}{\numberline {1}Overview}{3}{}%
+\contentsline {section}{\numberline {2}Definition of a Rug Pull}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Types of Rug Pull}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Scam Rug Pull}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Catastrophic Event Rug Pull}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Legitimate Project Resembling a Rug Pull}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Mechanism of a Blatant Scam Rug Pull}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Creation of the Rug Token}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Attracting Liquidity}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Liquidity Drain}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Outcome for Victims}{5}{}%
+\contentsline {section}{\numberline {3}Vault Creation and Anticoin Issuance}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Anticoin Role and Market Interaction}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Inverse Logarithmic Pegging as Soft Theoretical Bounds}{7}{}%
+\contentsline {section}{\numberline {4}Supply Regulation Mechanism}{8}{}%
+\contentsline {section}{\numberline {5}User Interaction and Ecosystem Signaling}{9}{}%
+\contentsline {section}{\numberline {6}Opportunities for New Ecosystems}{10}{}%
+\contentsline {subsection}{\numberline {6.1}User Commitment and Signal to the Ecosystem}{11}{}%
+\contentsline {section}{\numberline {7}Rugsafe Vaults as Oracles}{12}{}%
+\contentsline {section}{\numberline {8}Whale Penalty Mechanism}{12}{}%
+\contentsline {subsubsection}{\numberline {8.0.1}Impact on regular users vs. whales}{12}{}%
+\contentsline {subsubsection}{\numberline {8.0.2}Equitable system design}{13}{}%
+\contentsline {subsubsection}{\numberline {8.0.3}Cumulative penalty mechanism}{14}{}%
+\contentsline {subsubsection}{\numberline {8.0.4}Combining both mechanisms}{15}{}%
+\contentsline {subsubsection}{\numberline {8.0.5}One-time withdrawal}{15}{}%
+\contentsline {subsubsection}{\numberline {8.0.6}Sybil withdrawal}{15}{}%
+\contentsline {section}{\numberline {9}Rugsafe Token Emissions and Parameterized Rewards Mechanism}{16}{}%
+\contentsline {section}{\numberline {10}Rugproof Mechanism}{17}{}%
+\contentsline {subsubsection}{\numberline {10.0.1}Token Issuance and Bonding Mechanism}{17}{}%
+\contentsline {subsubsection}{\numberline {10.0.2}Claim and Challenge Process}{17}{}%
+\contentsline {subsubsection}{\numberline {10.0.3}Outcome of the Challenge Period}{17}{}%
+\contentsline {subsubsection}{\numberline {10.0.4}Incentives and Protection}{18}{}%
+\contentsline {section}{\numberline {11}DeFi for Rugged Tokens}{18}{}%
+\contentsline {subsection}{\numberline {11.1}Decentralized Exchange}{18}{}%
+\contentsline {subsubsection}{\numberline {11.1.1}Enforcement of the Logarithmic Inverse Peg}{19}{}%
+\contentsline {subsection}{\numberline {11.2}Perpetuals for Rugged Tokens}{19}{}%
+\contentsline {subsubsection}{\numberline {11.2.1}Asymmetric Funding Rates}{20}{}%
+\contentsline {subsubsection}{\numberline {11.2.2}Funding Rate Calculation}{20}{}%
+\contentsline {subsubsection}{\numberline {11.2.3}Liquidation Mechanism and Protocol-Owned AMM}{21}{}%
+\contentsline {section}{\numberline {12}Rug Detection Mechanisms}{21}{}%
+\contentsline {subsection}{\numberline {12.1}Liquidity Pool Monitoring}{22}{}%
+\contentsline {subsection}{\numberline {12.2}Front-running Liquidity Removal}{22}{}%
+\contentsline {subsection}{\numberline {12.3}Sandwich Attacks on Liquidity Withdrawal}{22}{}%
+\contentsline {subsection}{\numberline {12.4}Back-running Liquidity Removal}{23}{}%
+\contentsline {subsection}{\numberline {12.5}Detection Window and Response Time}{23}{}%
+\contentsline {subsection}{\numberline {12.6}Frontrunning Prevention and Countermeasures}{23}{}%
+\contentsline {subsection}{\numberline {12.7}Other Rug Detection Metrics}{23}{}%
+\contentsline {subsection}{\numberline {12.8}Protocol Governance and Community Involvement}{24}{}%
+\contentsline {subsection}{\numberline {12.9}Intent-Based Mitigation System}{24}{}%
+\contentsline {subsubsection}{\numberline {12.9.1}Submitting Intents}{24}{}%
+\contentsline {subsubsection}{\numberline {12.9.2}Solver Role in Executing Intents}{24}{}%
+\contentsline {subsubsection}{\numberline {12.9.3}Mitigation as a Safeguard}{25}{}%
+\contentsline {section}{\numberline {13}Decentralized Insurance Mechanism}{25}{}%
+\contentsline {subsection}{\numberline {13.1}Insurance Issuance and Bonding Mechanism}{25}{}%
+\contentsline {subsection}{\numberline {13.2}Submitting a Claim and Claim Bonds}{25}{}%
+\contentsline {subsection}{\numberline {13.3}Challenge Period and Dispute Mechanism}{26}{}%
+\contentsline {subsection}{\numberline {13.4}Outcome of the Dispute Process}{26}{}%
+\contentsline {subsubsection}{\numberline {13.4.1}Claim Approved}{26}{}%
+\contentsline {subsubsection}{\numberline {13.4.2}Claim Rejected}{26}{}%
+\contentsline {subsection}{\numberline {13.5}Escalation and Final Resolution}{27}{}%
+\contentsline {subsection}{\numberline {13.6}Incentives for Honest Behavior}{27}{}%
+\contentsline {section}{\numberline {14}Closing Remarks}{27}{}%
