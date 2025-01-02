@@ -1,4 +1,4 @@
-# RugSafe Protocol - White Paper
+# RugSafe Protocol - Paper
 
 ![RugSafe Logo](https://rugsafe.io/_next/static/media/logo5.7217ba98.png)
 
